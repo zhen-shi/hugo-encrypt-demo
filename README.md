@@ -1,0 +1,1 @@
+Demo for: [hugo-encrypt](https://github.com/Izumiko/hugo-encrypt)
